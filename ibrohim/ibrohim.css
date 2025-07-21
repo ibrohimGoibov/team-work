@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+}
+.back{
+    background-image: url(./background\ \(4\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    width: 100%;
+    height: 90vh;
+    .st{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        padding: 10px;
+        .p{
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            .p1{
+                color: #FF5A30;
+            }
+        }
+        .fl{
+            display: flex;
+            align-items: center;
+            gap: 30px;
+            .fl1{
+                display: flex;
+                align-items: center;
+                gap: 10px;
+            }
+        }
+    }
+    .head{
+        margin-top: 150px;
+        margin-left: 100px;
+        .p2{
+            span{
+                color: grey;
+        }
+    }    
+    h1{
+        font-size: 70px;
+        margin-top: 10px;
+    }
+    p{
+        font-size: 20px;
+        width: 550px;
+        color: grey;
+        margin-top: 10px;
+    }
+}
+}
+
+.fl{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    .txt{
+        .kl:hover{
+            background-color: #FF5A30;
+            color: white;
+            transition: all 1s ease;
+        }
+        h2{
+            font-size: 32px;
+        }
+        p{
+            width: 500px;
+            color: grey;
+            margin-top: 10px;
+        }
+        button{
+            padding: 10px 20px;
+            background-color: white;
+            border: none;
+            border: 2px solid #FF5A30;
+            color: #FF5A30;
+            font-size: 17px;
+            margin-top: 20px;
+        }
+    }
+}
+.back1{
+    background-image: url(./image\ -\ 2025-07-21T101020.834.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: start;
+    padding: 40px;
+    margin-top: 50px;
+        .bg{
+            margin-left: 800px;
+        background-color: white;
+        border-radius: 20px;
+        width: 495px;
+        padding: 20px;
+        h1{
+            text-align: center;
+        }
+        .n1{
+            margin-top: 20px;
+            margin-left: 20px;
+            input{
+                width: 415px;
+                height: 44px;
+                padding-left: 10px;
+                border: none;
+                border: 2px solid #D7DADD;
+                border-radius: 10px;
+                outline: none;
+            }
+        }
+        .n2{
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 20px;
+            margin-left: 20px;
+        }
+        .but{
+            width: 200px;
+            margin: auto;
+            margin-top: 40px;
+            button{
+                padding: 15px  40px;
+                border: none;
+                background-color: #FF5A30;
+                color: white;
+                font-size: 17px;
+            }
+        }
+    }
+}
+.last{
+    background-color: #1E212C;
+    padding: 30px;
+    color: white;
+    .num1{
+        p{
+            width: 300px;
+            color: grey;
+            margin-top: 20px;
+        }
+        .fl4{
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+    }
+    .fl3{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        p{
+            color: grey;
+            margin-top: 10px;
+        }
+        .flex{
+            display: flex;
+            align-items: center;
+            margin-top: 10px;
+            button{
+                padding: 8px 20px;
+                border: none;
+                background-color: #FF5A30;
+                color: white;
+                font-weight: bold;
+                font-size: 17px;
+            }
+            input{
+                padding: 10px 40px;
+                background-color: rgb(207, 206, 206);
+                border: none;
+                outline: none;
+            }
+
+        }
+    }
+}
+.fl5{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    .txt10{
+
+        p{
+            margin-top: 10px;
+            span{
+                color: grey;
+            }
+        }
+    }
+}
+.fle{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    margin-top: 30px;
+    .p{
+        display: flex;
+        align-items: end;
+        gap: 10px;
+    }
+}
+.lol{
+    left: 100px;
+}
